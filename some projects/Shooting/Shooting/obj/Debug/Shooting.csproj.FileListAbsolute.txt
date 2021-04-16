@@ -1,0 +1,19 @@
+D:\VisualStudioProjects\Shooting\Shooting\bin\Debug\Shooting.exe.config
+D:\VisualStudioProjects\Shooting\Shooting\bin\Debug\Shooting.exe
+D:\VisualStudioProjects\Shooting\Shooting\bin\Debug\Shooting.pdb
+D:\VisualStudioProjects\Shooting\Shooting\obj\Debug\Shooting.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Shooting\Shooting\obj\Debug\Shooting.Form1.resources
+D:\VisualStudioProjects\Shooting\Shooting\obj\Debug\Shooting.Properties.Resources.resources
+D:\VisualStudioProjects\Shooting\Shooting\obj\Debug\Shooting.csproj.GenerateResource.cache
+D:\VisualStudioProjects\Shooting\Shooting\obj\Debug\Shooting.exe
+D:\VisualStudioProjects\Shooting\Shooting\obj\Debug\Shooting.pdb
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\bin\Debug\Shooting.exe.config
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\bin\Debug\Shooting.exe
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\bin\Debug\Shooting.pdb
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\obj\Debug\Shooting.csprojAssemblyReference.cache
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\obj\Debug\Shooting.Form1.resources
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\obj\Debug\Shooting.Properties.Resources.resources
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\obj\Debug\Shooting.csproj.GenerateResource.cache
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\obj\Debug\Shooting.csproj.CoreCompileInputs.cache
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\obj\Debug\Shooting.exe
+C:\Users\belje\Downloads\Новая папка\Shooting\Shooting\obj\Debug\Shooting.pdb
