@@ -1,0 +1,30 @@
+﻿<Window x:Class="ChatClient.ChatWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatClient"
+        mc:Ignorable="d"
+       Title="Message Manager" ResizeMode="NoResize" Height="450" Width="450">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="0.05*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0">Received messeges</Label>
+        <Label Grid.Row="0" Grid.Column="1">Sended messages</Label>
+        <TextBox Name="receivedTB" Grid.Column="0" Grid.Row="1" IsEnabled="False"/>
+        <TextBox Name ="sentTB" Grid.Column="1" Grid.Row="1" IsEnabled="False"/>
+
+        <StackPanel Grid.Row ="2" Grid.ColumnSpan="2" Orientation="Horizontal">
+            <TextBox Name="sendTB" MinWidth="380"/>
+            <ComboBox  Name="usersBox" MouseDown="usersBox_MouseDown" ItemsSource="{Binding Users}" DisplayMemberPath="Name" IsSelected="False"></ComboBox>
+            <Button>Send</Button>
+        </StackPanel>
+    </Grid>
+</Window>

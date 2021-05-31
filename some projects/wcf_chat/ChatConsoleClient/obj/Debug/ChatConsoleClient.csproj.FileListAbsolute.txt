@@ -1,0 +1,6 @@
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\ChatConsoleClient\bin\Debug\ChatConsoleClient.exe.config
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\ChatConsoleClient\bin\Debug\ChatConsoleClient.exe
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\ChatConsoleClient\bin\Debug\ChatConsoleClient.pdb
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\ChatConsoleClient\obj\Debug\ChatConsoleClient.csproj.CoreCompileInputs.cache
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\ChatConsoleClient\obj\Debug\ChatConsoleClient.exe
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\ChatConsoleClient\obj\Debug\ChatConsoleClient.pdb

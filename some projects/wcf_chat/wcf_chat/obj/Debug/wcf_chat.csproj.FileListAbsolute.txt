@@ -1,0 +1,12 @@
+D:\My projects\0_C#\Lessons\wcf_chat\wcf_chat\bin\Debug\wcf_chat.dll.config
+D:\My projects\0_C#\Lessons\wcf_chat\wcf_chat\bin\Debug\wcf_chat.dll
+D:\My projects\0_C#\Lessons\wcf_chat\wcf_chat\bin\Debug\wcf_chat.pdb
+D:\My projects\0_C#\Lessons\wcf_chat\wcf_chat\obj\Debug\wcf_chat.csproj.CoreCompileInputs.cache
+D:\My projects\0_C#\Lessons\wcf_chat\wcf_chat\obj\Debug\wcf_chat.dll
+D:\My projects\0_C#\Lessons\wcf_chat\wcf_chat\obj\Debug\wcf_chat.pdb
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\wcf_chat\bin\Debug\wcf_chat.dll.config
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\wcf_chat\bin\Debug\wcf_chat.dll
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\wcf_chat\bin\Debug\wcf_chat.pdb
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\wcf_chat\obj\Debug\wcf_chat.csproj.CoreCompileInputs.cache
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\wcf_chat\obj\Debug\wcf_chat.dll
+D:\Универ\4 семестр\УП\Lab_11_______\wcf_chat\wcf_chat\obj\Debug\wcf_chat.pdb
