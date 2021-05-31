@@ -1,4 +1,3 @@
-# SyberryAcademy
-Repositoty for course Syberry Academy
+# MyProject
+Repositoty contains examples of my university labs.
 
-**"some projects"** is folder which contains some of my projects to show my skills
