@@ -1,3 +1,3 @@
 # MyProject
-Repositoty contains examples of my university labs.
+Repository contains examples of my university labs.
 
